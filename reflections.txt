@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I learned about some new tags and adding some attributes to them.
+
+The general layout of the tree is pretty easy.
+
+Something that is difficult is remembering the exact way a tag functions.
+
+I've used some of my problem solving strategies from the previous project to help overcome challenges by keep iterating, taking a break now and again, and looking things up if I don't remember how to use something.
